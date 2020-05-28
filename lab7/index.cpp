@@ -24,7 +24,7 @@ int main()
     {
         shoesesCopy[i] = shoeses[i];
     }
-    // сout << endl << "Now will be copy of main array" << endl;
+    сout << endl << "Now will be copy of main array" << endl;
     Output(shoesesCopy);
     return 0;
 }
